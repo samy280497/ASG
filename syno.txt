@@ -1,0 +1,15 @@
+The format for Synopsis Report is attached herewith. The students are expected to prepare a PPT with the following details (Title with Team & Guide details, Abstract, Introduction, Problem Statement, Literature, Objective, Methodology, System Requirement, PERT chart, References) for max. 10min. All team members should be present for the defense of the Synopsis.
+ 
+The PPT for the remaining groups has been scheduled on Saturday 26-08-2017 from 11-01. P.M. All the groups are required  to submit the synopsis report by Saturday positively.
+ 
+ 
+Instructions for Synopsis Report:
+1.            Min/Max. no. pages: 7 excluding Front Page.
+2.            All Pages except the front page should be number. Bottom, Center, Times New Roman, size 8.
+3.            Margins: Left(1.5), Right (0.75), Top&Bottom(1).
+4.            Content Format: Justified, Not Bold & Underlined, Not Italicized, Time New Roman, size: 12, line spacing: 1
+5.            Chapter Heading: Center Aligned, Bold, All Caps, Time New Roman, size 16
+6.            Main Heading: Left Aligned, Bold, Not underlined & not italicized, Times New Roman, size 14
+7.            Sub-Heading: Left Aligned, Bold, Not underlined & not italicized, Times New Roman, size 12
+ 
+-- 
